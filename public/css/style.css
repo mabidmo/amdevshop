@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(45, 50, 56);
+}
+
+/* home */
+
+/* .deskripsi{
+    width: 100%;
+} */
+
+.user {
+    min-width: 66%;
+}
+
+.btn {
+    width: 200px;
+    height: auto;
+}
+
+.radio-green [type="radio"]:checked+label:after {
+    border-color: #00C851;
+    background-color: #00C851;
+  }
+
+.btn:checked {
+    background-color: aqua;
+}
+
+.result{
+    background-color:transparent;
+    border: none;
+    outline:none;
+}
